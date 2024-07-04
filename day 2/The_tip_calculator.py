@@ -1,3 +1,5 @@
+#Write a program that calculates how big is the share of the bill for each person based on user inputs.
+
 print("Welcome to the tip calculator.")
 
 bill = float(input("What was the total bill? \n£"))
